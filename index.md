@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+PRIVACY POLICY :
+This privacy policy governs your use of the software application (“MonopolyTracker”) for mobile devices that was created by Diego Vivona. The Application is a banker for monopoly.
 
-You can use the [editor on GitHub](https://github.com/ElDieguii/Privacy-policy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+What information does the Application obtain and how is it used?
+User Provided Information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Application only usses your camera to join you into a group that a banker has created. The banker creates an online session and with the help of a automatically created QR Code, you are able to jon the session with your camera.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElDieguii/Privacy-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at "vivona.diego98@gmail.com".
